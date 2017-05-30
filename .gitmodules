@@ -1,0 +1,4 @@
+[submodule "source"]
+	path = source
+	url = ssh://kaikong@192.168.31.10/home/git/odoo.git
+	branch = 8.0
